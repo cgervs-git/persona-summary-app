@@ -1,0 +1,38 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit temp/cache
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Jupyter/Notebook backups (if used)
+.ipynb_checkpoints/
+
+# VSCode/editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log and output files
+*.log
+*.out
+
+# PDFs or large test files (optional)
+*.pdf
