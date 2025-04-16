@@ -28,13 +28,3 @@ PyPDF2: to extract text from uploaded PDF documents
 python-dotenv: to manage API keys securely via .env
 
 OpenAI SDK v1.x: fully updated for current API best practices
-
-
-📦 Folder Structure
-
-📁 semiconductor_summary/ 
-├── app.py # Streamlit app 
-├── personas.txt # Persona descriptions 
-├── requirements.txt # Python dependencies 
-├── .env # OpenAI API key (not committed to git) 
-└── sample_tech_doc.pdf # Example input (optional)
